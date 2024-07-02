@@ -6,8 +6,6 @@ This is the official GitHub profile for the Rhabanus-Maurus-Gymnasium St. Ottili
 
 - [About Us](#about-us)
 - [Projects](#projects)
-- [How to Contribute](#how-to-contribute)
-- [Resources](#resources)
 - [Contact Us](#contact-us)
 
 ## About Us
